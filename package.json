@@ -32,7 +32,8 @@
     "uuid": "^7.0.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "netlify"
   ],
   "license": "MIT",
   "main": "n/a",
